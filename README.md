@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm here to wor on something cool 😀
+I'm here to work on something cool! 😀
 <!--
 **orca-lm14/orca-lm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
